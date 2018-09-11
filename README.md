@@ -84,8 +84,8 @@ If the content is already somewhere else on the .org site, feel free to copy and
 
 Possible sources of great research materials:
 
-- Blogposts (on gatsbyjs.org and other sites)
-- Docs (on gatsbyjs.org and other sites)
+- Blogposts
+- Docs 
 - Video tutorials
 - Discord, Spectrum, or Twitter conversations
 - Google search results
